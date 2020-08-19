@@ -24,7 +24,7 @@ A simple tool to create coin files to import into Verus Desktop.
 
 1) Open Verus Desktop and navigate past the login/choose account screens to the wallet
 2) Select "Add Coin" from the left side of the screen, a modal should appear with a searchable dropdown in the middle
-3) Without the dropdown selected, within this modal, type "ADDFROMFILE", on your keyboard (without the quotes), the searchable dropdown should now be replaced by a file selector
+3) Without the dropdown selected, within this modal, hit the `Alt` key three times or type "ADDFROMFILE", on your keyboard (without the quotes), the searchable dropdown should now be replaced by a file selector
 4) Select "\<your coin ticker\>_import.txt" from the file selector, and press continue
 5) Ensure that the buttons for the modes your coin supports arent grayed out (e.g. if your coin supports native mode, the native button is clickable)
 6) Test each available mode to make sure it works, connects, can send, and gets all information properly
